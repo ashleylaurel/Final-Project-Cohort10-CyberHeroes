@@ -1,10 +1,10 @@
 # Hello Project
-## This is my Project
+## This is our Final Project for 23 Code Street
 
 It is an excellent Project
 
-It is fabulous
+It is a JavaScript canvas game that teaches children about safety online.
 
-How excellent
+There are inclusive characters that were created in 8-bit pixel art style.
 
-Really really excellent
+There is a leaderboard which keeps track of scores that are determined by a user's speed of answering the questions.
